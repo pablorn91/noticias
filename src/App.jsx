@@ -1,4 +1,5 @@
 import Header from "./components/Header"
+import Formulario from "./components/Formulario"
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
       />
 
       <div className="container white">
-        <h1>Formulario aquí</h1>
+        <Formulario/>
       </div>
     </>
   )
